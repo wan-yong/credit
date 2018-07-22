@@ -22,6 +22,8 @@
 安装依赖包
 
     cd credit && npm install
+    npm install --save body-parser
+    npm install --save serve-favicon
        
 让服务器在文件更改时，自动重新启动
 
