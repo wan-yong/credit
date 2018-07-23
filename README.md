@@ -44,5 +44,5 @@
 
 下载源码到本地进行调试
 
-    git clone 
+    git clone https://github.com/wan-yong/credit.git
     cd credit
