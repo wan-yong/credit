@@ -47,7 +47,7 @@
     git clone https://github.com/wan-yong/credit.git
     cd credit
     
-##备注
+## 备注
 
     http://www.cnblogs.com/best/p/6204116.html#_label0
     https://www.bilibili.com/video/av17977069/
