@@ -41,3 +41,8 @@
     DEBUG=credit:* npm run devstart
     
 现在，如果编辑项目中的任何文件，服务器自动重新启动。刷新浏览器，就能看到程序的调试结果。
+
+下载源码到本地进行调试
+
+    git clone 
+    cd credit
